@@ -11,6 +11,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Hydra Dragon Cannelloni"] = true,
     ["Dragon Cannelloni"] = true,
     ["Ketupat Kepat"] = true,
+    ["Noo my Eggs"] = true,
     ["Ketchuru and Musturu"] = true,
     ["Ketupat Bros"] = true,
     ["Tang Tang Keletang"] = true,
